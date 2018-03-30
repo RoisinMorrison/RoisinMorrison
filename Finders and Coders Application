@@ -1,0 +1,194 @@
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+
+
+
+<style>
+
+.body {
+
+	background-color: black;
+    border-width: 10px; 
+    border-color: white;
+     border-style: solid;
+}
+.topnav {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    background-color: #B33000;
+ text-align: center;
+    border-width: 10px;
+    border-color: white;
+    border-style: solid;
+
+ 
+}
+ul {
+     list-style-type: none;
+     margin: 10px;
+    padding: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 50%;
+
+    height: auto;}
+}
+
+
+li {
+    margin-left: 100px;
+    margin-right:200px;
+    top: 150px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+
+.big-white-text
+{color: white;
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 60px;
+}
+
+ .centre-text {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    height: auto;
+    text-align: center;
+color: white;
+ font-family: 'Open Sans Condensed', sans-serif;}
+
+.column {
+    width: 80%;
+    text-align: justify;
+    padding: 30px;
+    margin-left: 75px;
+    border-spacing: 20px;
+    border-width: 30px;
+   color:white;
+
+}
+.rcorners {
+    border-radius: 25px;
+    padding: 20px; 
+}
+
+.centre-image {
+    display: block; 
+     margin: auto;
+     vertical-align:middle;
+    
+}
+
+.footer {
+    background-color: #B33000;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+    border-width: 10px;
+    border-spacing: 10px;
+    border-top: 10px;
+    border-color: white;
+
+}
+
+#page1 {
+       height: 750px; 
+    
+  
+}
+
+#page2 {
+      height: 750px; }
+ 
+
+#page3 {
+      height: 300px; 
+   
+}
+</style> 
+
+
+<body class="body"; >
+
+<div style="height: 750px; border-width: 10px; border-style: solid; border-color: white; border-top: 10px; border-left: 10px; border-right:10px; border-bottom: 0px;" id="top">
+  
+   <p class="big-white-text centre-text"> Who is Roisin Morrison? </p> 
+
+   <img class="rcorners centre-image"; style="filter: grayscale(75%); margin-bottom: 20px ;"  src="https://media.licdn.com/dms/image/C4E03AQHRP6JYSrWffA/profile-displayphoto-shrink_200_200/0?e=1527357600&v=alpha&t=Wz6OGrAjMi7X0yuDRPbPicwzeicimFQzkXx9jd1BFMY
+	" alt="me">
+
+
+     <ul class="topnav centre-text"> 
+
+         <li><a class =active href="#herstory">Herstory</a></li>
+         <li><a href="#coding">Coding</a></li>
+         <li><a href="#links">Links</a></li>
+     </ul> 
+</div>
+
+<style>
+
+</style>
+
+
+  <a id="herstory"></a>
+<div id="page1">
+    <ul class="centre-text"; style="text-align: center; font-size: 25px; margin-top: 35px;">
+          </li>
+  <li> Studied International Politics in The Hague</li>
+  <li> Studied Journalism in Melbourne </li>
+  <li> Moved to London to work as a pupil mentor at a state school in Stratford </li>
+  <li> Led Speech and Language Therapy in the School </li>
+  <li> Discovered Coding! </li>
+</ul>
+ <img width=350px; style= "filter:invert(100%); margin-top: 60px"; class= "centre-image"; src="https://www.iconspng.com/uploads/globe-showing-africa-asia-and-europe-in-black-and-white-detailed/globe-showing-africa-asia-and-europe-in-black-and-white-detailed.png"  alt="Globe showing Africa, Asia and Europe in black and white (detailed) PNG icon" />
+
+
+</div>
+
+
+
+<div id="page2" style="height: 750px; font-size: 30px;" class="centre-text" ;>
+  <a id="coding" class="smooth"></a>
+  <p> I'm applying for Founders and Coders because I have become obsessed with coding. 
+    I am particually interested in the links Founders and Coders has with the third sector as this is where I am driven to work. 
+    As well as this, I am inspired by the links founders and coders have in Palestine and would love the opportunity to be involved. In the future, I want to combine my knowledge of coding and my interest in the charity sector to set up a social enterprise, and perhaps start training young people with learning difficulties.
+    
+ </p>
+</div>
+
+<div id="page3">
+  <a id="links" class="smooth"></a>
+    <p class="big-black-text" style="font-size: 50px"> <a
+   href="https://github.com/RoisinMorrison/finderscreepers1"> <img style= "width: 110px; display: block; bottom: 130px;
+    margin-left: auto;
+    margin-right: auto; position:relative; filter: invert(100%);"; src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt=”github”></a>
+ <a
+   href=" https://www.freecodecamp.org/roisinmorrison"> <img style= " width:127px; position:relative; bottom: 80px; display: block;
+    margin-left: auto;
+    margin-right: auto; filter: invert(100%)"; src="http://www.stickpng.com/assets/images/5847f91ccef1014c0b5e48b8.png" alt=”free-code-camp”></a>
+ <a
+   href="https://www.codewars.com/users/RoisinMorrison"> <img style= " width:122px; position: relative; bottom: 50px; display: block; right: -2px;
+    margin-left: auto;
+    margin-right: auto; filter: invert(100%);" src="https://www.shareicon.net/data/512x512/2016/11/01/849405_codewars_512x512.png" alt=”free-code-camp”></a>
+
+</div>
+
+
+<div class="footer">
+	<a style="float: left; color:white; font-size: 20px;" class= "centre-text" href="#top">Lift me up</a>
+	<form class="centre-text" action="/what's your dream?"> </form> 
+ <input type="text" placeholder="tell me your dreamzzz"> 
+	<button type="submit">Submit</button> 
+    <p style="color:white; font-size: 15px" class="centre-text"> #Formbutt </p>
+	</div>
+
+    </body>
+
